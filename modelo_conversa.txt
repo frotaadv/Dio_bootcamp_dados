@@ -1,0 +1,32 @@
+[14/03/2025, 10:15] Paciente: Dra., posso falar com você? Não estou bem hoje...  
+[14/03/2025, 10:20] Terapeuta: Claro, estou aqui. O que está acontecendo?  
+[14/03/2025, 10:22] Paciente: Acordei e só consegui chorar. Parece que nada faz sentido. Até escovar os dentes foi difícil.  
+[14/03/2025, 10:25] Terapeuta: Sinto muito que esteja assim hoje. Você consegue identificar o que desencadeou isso? Ou foi algo espontâneo?  
+[14/03/2025, 10:28] Paciente: Acho que foi o sonho que tive... Me vi sozinho num lugar escuro. Acordei com o coração acelerado. Desde então, só penso: "E se eu nunca melhorar?"  
+
+[14/03/2025, 10:30] Terapeuta: Sonhos podem ser intensos, mas eles não definem sua realidade. Lembra do que falamos na última sessão? A depressão distorce nossos pensamentos.  
+[14/03/2025, 10:33] Paciente: Sei, mas... é tão real quando tá acontecendo. Até meu corpo dói. Não tenho energia pra nada.  
+
+[14/03/2025, 10:35] Terapeuta: Vamos fazer um exercício juntos? Respire fundo por 5 segundos. Eu espero.  
+[14/03/2025, 10:38] Paciente: *respirando* Tentei... mas a mente não para. Sinto que falhei em tudo. Meus amigos sumiram, meu trabalho está uma bagunça...  
+
+[14/03/2025, 10:40] Terapeuta: Você não falhou. Está lutando contra uma doença. E hoje, mesmo mal, você *me chamou*. Isso é coragem.  
+[14/03/2025, 10:43] Paciente: Às vezes acho que seria mais fácil desaparecer. Desculpe falar isso...  
+
+[14/03/2025, 10:45] Terapeuta: Não se desculpe. Eu agradeço por compartilhar. Esses pensamentos são sintomas, não soluções. Você não está sozinho nisso.  
+[14/03/2025, 10:48] Paciente: Obrigado por não me julgar... Mas sério, como vou sair dessa? Já faz meses.  
+
+[14/03/2025, 10:50] Terapeuta: Vamos passo a passo. Hoje: 1) Tome um banho morno. 2) Beba água. 3) Escreva UMA coisa pequena que você conseguiu fazer (mesmo que seja "pedi ajuda"). Combinado?  
+[14/03/2025, 10:53] Paciente: Tá... vou tentar. Só não prometo que vou conseguir.  
+
+[14/03/2025, 16:20] Paciente: Dra., tomei o banho. E comi meio sanduíche. Ainda me sinto um lixo, mas fiz.  
+[14/03/2025, 16:22] Terapeuta: ISSO É IMPORTANTE! São vitórias reais. A depressão grita alto, mas você agiu mesmo assim.  
+
+[15/03/2025, 09:00] Paciente: Bom dia... Dormi mal de novo. Sonhei que chorava e ninguém ouvia.  
+[15/03/2025, 09:05] Terapeuta: Bom dia. Seu cérebro está processando a dor, mas você está seguro agora. Que tal ouvir aquela playlist calma que sugerimos?  
+[15/03/2025, 09:10] Paciente: Não adianta. Nada muda. Acho que vou cancelar a sessão de amanhã.  
+
+[15/03/2025, 09:12] Terapeuta: Eu entendo o cansaço, mas justo nos dias mais difíceis é quando mais precisamos nos cuidar. Podemos ajustar o horário?  
+[15/03/2025, 09:15] Paciente: Tá. Deixa como estava. Desculpe o desabafo.  
+
+[15/03/2025, 09:18] Terapeuta: Sem desculpas. Você está sendo muito forte ao persistir. Amanhã falamos sobre esse sonho, ok?  
